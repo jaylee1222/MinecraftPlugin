@@ -1,0 +1,4 @@
+name: Blahdeeblah
+version: '${project.version}'
+main: blah.blahdeeblah.Blahdeeblah
+api-version: 1.18
